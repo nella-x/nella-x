@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning web development!! <3333
 - 💞️ I’m looking to collaborate on cute hobby projects!?
 - 📫 How to reach me --> nellax @ me .com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: hablo español (un poquito)
 
 <!---
 nella-x/nella-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
